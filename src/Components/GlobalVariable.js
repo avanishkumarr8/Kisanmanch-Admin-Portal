@@ -1,0 +1,1 @@
+global.BaseUrl = "https://kisandev-httpapi-host.conveyor.cloud"
